@@ -1,1 +1,1 @@
-# .github
+Yet another funny resources handler.
